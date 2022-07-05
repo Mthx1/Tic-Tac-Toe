@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="17">
+      <module name="Simple_Tic-Tac-Toe.Simple_Tic-Tac-Toe-task-build-classes-java.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Simple_Tic-Tac-Toe-task-build-generated-sources-annotationProcessor-java.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Simple_Tic-Tac-Toe-task-build-generated-sources-headers-java.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Simple_Tic-Tac-Toe-task-build-reports-tests.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Simple_Tic-Tac-Toe-task-build-test-results.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Simple_Tic-Tac-Toe-task-build-tmp.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Simple_Tic-Tac-Toe-task.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Array-Allocation_memory.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Array-Declarations.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Array-Determine_the_output.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Array-Initializing_an_array_of_characters.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Array-Initializing_an_array_of_integers.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Array-Initializing_an_array_of_longs.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Array-The_last_element_of_an_array.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Array-Theory.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Calling_a_method-Abs_method.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Calling_a_method-Area_of_parallelogram.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Calling_a_method-Call_me_awesome.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Calling_a_method-Correct_names_for_methods.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Calling_a_method-Method_invocation.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Calling_a_method-Theory.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Conditional_statement-A_correct_example.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Conditional_statement-An_output_of_the_code.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Conditional_statement-Check_a_number_is_positive.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Conditional_statement-Chocolate.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Conditional_statement-Determine_the_output.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Conditional_statement-Healthy_sleep.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Conditional_statement-Interval.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Conditional_statement-Statements.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Conditional_statement-The_army_of_units.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Conditional_statement-The_condition_to_travel_around_the_world.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Conditional_statement-Theory.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Conditional_statement-Triangle.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.util.main" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
